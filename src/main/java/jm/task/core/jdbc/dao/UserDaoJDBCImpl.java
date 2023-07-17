@@ -10,9 +10,9 @@ import java.util.List;
 
 
 
-public class UserDaoJDBCImpl  implements UserDao {
+public class UserDaoJDBCImpl   {
 
-    public UserDaoJDBCImpl() {
+  /*  public UserDaoJDBCImpl() {
 
     }
 
@@ -97,4 +97,6 @@ public class UserDaoJDBCImpl  implements UserDao {
         }
 
     }
+
+   */
 }
